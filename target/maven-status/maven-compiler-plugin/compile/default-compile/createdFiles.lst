@@ -1,0 +1,8 @@
+com\masenjo\restaurantlisting\mapper\RestaurantMapperImpl.class
+com\masenjo\restaurantlisting\entity\Restaurant.class
+com\masenjo\restaurantlisting\repo\RestaurantRepo.class
+com\masenjo\restaurantlisting\service\RestaurantService.class
+com\masenjo\restaurantlisting\dto\RestaurantDto.class
+com\masenjo\restaurantlisting\controller\RestaurantController.class
+com\masenjo\restaurantlisting\mapper\RestaurantMapper.class
+com\masenjo\restaurantlisting\RestaurantListingApplication.class
