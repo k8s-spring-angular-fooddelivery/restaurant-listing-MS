@@ -18,7 +18,7 @@ import com.masenjo.restaurantlisting.service.RestaurantService;
 
 @RestController
 @RequestMapping("/restaurant")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "http://k8s-default-awsingre-9aa4c55379-1495487178.eu-west-2.elb.amazonaws.com")
 public class RestaurantController {
     @Autowired
     RestaurantService restaurantService;
